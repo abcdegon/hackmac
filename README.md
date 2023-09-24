@@ -10,8 +10,8 @@ Every single tool will be documented here.
 ## Setup
 Create a virtual environment.
 
-`
+```
 sh>python3 -m venv hackenv
 sh>pip3 install --upgrade pip
-`
+```
 
